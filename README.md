@@ -1,4 +1,4 @@
-# Metis Project 1
+# Metis Project 1: Exploratory Data Analysis of MTA turnstyle data
 ### Project completed by Tawney Lott, Rhys Carter, Alla Raykhman, and Ethan Feldman
 
 Guide for contents of the repository:
